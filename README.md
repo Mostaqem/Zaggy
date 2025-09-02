@@ -1,4 +1,4 @@
-# Zaggy (Taglib wrapper in Zig V0.1)
+# Zaglib (Taglib wrapper in Zig V0.1)
 
 ### Problems
 - Needed Metadata library for Mostaqem , found [Metadata God](https://pub.dev/packages/metadata_god) library , it was working fine , but suddenly , it asks for things for Rust , I couldn't understand how to solve so I built my own in my love language [Zig](https://ziglang.org/)
